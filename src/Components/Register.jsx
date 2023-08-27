@@ -18,6 +18,7 @@ const Register = () => {
     <SocialButtons 
         FacebookIcon={BsFacebook} 
         GithubIcon={BsGithub} 
+        LinkedinIcon={FaLinkedinIn}
       />
     <h3>or register with your email</h3>
     <Form setAlert={setAlert}/>
