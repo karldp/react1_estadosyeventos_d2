@@ -17,12 +17,16 @@
   border-radius: 10%;
 }
 
+input{
+  width: 16rem;
+}
+
 .form{
   display: flex;
   flex-direction: column;
   align-items: center;
   gap: 0.5rem;
-
+  width: 16rem;
 }
 
 .icons-container{
