@@ -24,7 +24,7 @@ const Form = ({setAlert}) => {
             setAlert({
                 error: true,
                 msg: "Please fill out all required fields.",
-                color: "",
+                color: "warning",
             });
             return;
         }
